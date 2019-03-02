@@ -1,0 +1,33 @@
+{
+  "name": "console-read-write",
+  "version": "0.0.1",
+  "description": "Utilities for reading and writing to the JavaScript console",
+  "main": "index.js",
+  "scripts": {
+    "lint": "xo",
+    "test": "clear && ava && npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assister-ai/console-read-write.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "console",
+    "util"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/assister-ai/console-read-write/issues"
+  },
+  "homepage": "https://github.com/assister-ai/console-read-write#readme",
+  "devDependencies": {
+    "ava": "1.2.1",
+    "xo": "0.24.0"
+  },
+  "xo": {
+    "space": 2
+  }
+}
