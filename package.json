@@ -1,6 +1,6 @@
 {
   "name": "console-read-write",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utilities for reading from and writing to the Node.js console",
   "main": "index.js",
   "scripts": {
