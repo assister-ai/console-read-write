@@ -2,7 +2,7 @@
 [![Build Status](https://api.travis-ci.org/assister-ai/console-read-write.svg?branch=master)](https://travis-ci.org/assister-ai/console-read-write)
 
 # console-read-write
-A simple `async/await` console interface for the Node.js [`readline`](https://nodejs.org/api/readline.htm) module
+Read from and write to the Node.js console. A simple `async/await` interface for the [`readline`](https://nodejs.org/api/readline.htm) module
 
 ## Install
 ```sh
